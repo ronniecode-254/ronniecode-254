@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning php backend and python Django framework
 - 💞️ I’m looking to collaborate on web development
 - 📫 reach me at ronniehandro77@gmail.com
+- network troubleshooter
+
 
 <!---
 ronniecode-254/ronniecode-254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
